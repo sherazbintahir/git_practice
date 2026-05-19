@@ -7,6 +7,4 @@ A = added file
 M = modified file
 D = deleted file
 R = renamed file
-
-
-just to check rest 
+ 
