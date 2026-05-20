@@ -83,4 +83,14 @@ This is a simple project to learn how to use git and github.
 - git checkout -b <branch_name> => this command will create a new branch and switch to it.
 - git checkout <branch_name> => this command will switch to the specified branch.
 - git merge <branch_name> => this command will merge the specified branch to the current branch.
-- 
+
+
+
+ONCE YOU ARE ADDED AS COLLABRAOR:
+clone the repo (git clone) -> git init -> git switch -C branch (create branch) -> Make changes -> git add . -> git commit -m "feature added" -> git push -u origin feature
+
+ON THE OTHER SIDE WHAT THE ADMIN OF COLLABORATOR (MERGE) DO:
+git init -> git fetch -> git switch feature (branch) -> Check changes -> git switc main -> git merge feature -> git push origin main
+
+after code is merged, the collabortor need to fetch the updated code again
+git switch main -> git fetch -> git pull.
