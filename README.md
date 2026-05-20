@@ -32,4 +32,13 @@ This is a simple project to learn how to use git and github.
 # Merge
 - you need to be at main branch
 - git meger <branch_name> (**git merge feature/calc**)
+- ffm = fast forward merge
+- 3 way merge = when there are changes in both branches
 
+# Conflicts
+- when there are changes in both branches, git will not be able to merge the branches and will show a conflict.
+- you need to resolve the conflict manually by editing the file and then add the file to the staging area and then commit the changes.
+- after resolving the conflict, you can merge the branches again.
+- git will show the conflict in the file with <<<<<<<, =======, >>>>>>> markers.
+- you need to remove these markers and keep the changes that you want to keep and then add the file to the staging area and then commit the changes.
+- after resolving the conflict, you can merge the branches again. 
