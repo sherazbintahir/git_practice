@@ -31,4 +31,5 @@ This is a simple project to learn how to use git and github.
 
 # Merge
 - you need to be at main branch
-- git meger <brach_name>
+- git meger <branch_name> (**git merge feature/calc**)
+
