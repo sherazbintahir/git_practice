@@ -1,4 +1,4 @@
-# ALL ABOUT GIT HUB
+# ALL ABOUT GITHUB
 
 
 # lets start !
