@@ -28,3 +28,7 @@ This is a simple project to learn how to use git and github.
 - create a new branch: **git branch <branch_name>** (git branch feature1)
 - switch to a branch: **git switch <branch_name>** (git switch feature1)
 - Switch to main branch: **git switch main**
+
+# Merge
+- you need to be at main branch
+- git meger <brach_name>
