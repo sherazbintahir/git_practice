@@ -11,3 +11,7 @@ print (a / b)
 
 c = "done"
 c = "ok"
+
+print(c)
+
+print("Learning git and github")
