@@ -66,3 +66,21 @@ This is a simple project to learn how to use git and github.
 - for example, if you want to ignore a file named secret.txt, you can add the following line to your .gitignore file:
 ```secret.txt
 ```
+
+
+# COLLABORATION
+- git clone => this command will create a copy of the remote repository on your local machine.
+- git pull => this command will fetch the changes from the remote repository and merge them with your local repository.
+- git push => this command will push your changes to the remote repository.
+- git remote add origin <remote_repository_url> => this command will add a remote repository to your local repository.
+- git remote -v => this command will show you the list of remote repositories that you have added to your local repository.
+- git remote remove origin => this command will remove the remote repository from your local repository.    
+- git fetch => this command will fetch the changes from the remote repository but will not merge them with your local repository
+- git merge origin/main => this command will merge the changes from the remote repository to your local repository.
+- git pull origin main => this command will fetch the changes from the remote repository and merge them with your local repository in one command.
+- git push origin main => this command will push your changes to the remote repository in the main branch.
+- git push origin <branch_name> => this command will push your changes to the remote repository in the specified branch.
+- git checkout -b <branch_name> => this command will create a new branch and switch to it.
+- git checkout <branch_name> => this command will switch to the specified branch.
+- git merge <branch_name> => this command will merge the specified branch to the current branch.
+- 
