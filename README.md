@@ -10,13 +10,13 @@ D = deleted file
 R = renamed file
  
 # Check Logs 
-check the logs : git log --oneline
-check the logs with details : git log
-check the logs with more details : git log -p
+1. check the logs : git log --oneline
+2. check the logs with details : git log
+3. check the logs with more details : git log -p
 
 # Git Status
-check stage of a file: git status -s 
-check all changes: git status 
+1. check stage of a file: git status -s 
+2. check all changes: git status 
 
 # Previous commit
-git checkout HEAD~1
+1. git reset --hard HEAD~1
