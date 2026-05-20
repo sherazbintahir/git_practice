@@ -3,6 +3,8 @@
 This is a simple project to learn how to use git and github.
 
 # first we need to initialize a git repository in our project folder:
+- git init
+
 - U = untracked file
 - A = added file
 - M = modified file
