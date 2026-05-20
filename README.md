@@ -29,10 +29,14 @@ This is a simple project to learn how to use git and github.
 - switch to a branch: **git switch <branch_name>** (git switch feature1)
 - Switch to main branch: **git switch main**
 
+# Delete a branch
+- delete a branch: **git branch -d <branch_name>** (git branch -d feature1)
+- force delete a branch: **git branch -D <branch_name>** (git branch -D feature1)
+
 # Merge
 - you need to be at main branch
 - git meger <branch_name> (**git merge feature/calc**)
-- ffm = fast forward merge
+- ffm = fast forward merge = when there are no changes in the main branch and you can simply move the pointer to the new branch.
 - 3 way merge = when there are changes in both branches
 
 # Conflicts
