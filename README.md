@@ -55,3 +55,14 @@ This is a simple project to learn how to use git and github.
 - git stash list => this command will show you the list of stashes that you have created.
 - git stash apply => this command will apply the changes from the stash to your working directory.
 - git stash clear => this command will clear all the stashes that you have created.
+
+# Git Ignore
+- git ignore is a file that tells git which files or directories to ignore in a project.
+- you can create a .gitignore file in the root directory of your project and add the files or directories that you want to ignore.
+- for example, if you want to ignore the node_modules directory, you can add the following line to your .gitignore file:
+```node_modules/
+````
+- you can also ignore specific files by adding their names to the .gitignore file.
+- for example, if you want to ignore a file named secret.txt, you can add the following line to your .gitignore file:
+```secret.txt
+```
