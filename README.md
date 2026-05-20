@@ -282,8 +282,5 @@ git checkout HEAD~2             # Go back 2 commits
 
 ---
 
-Built for developers who move fast and want a reliable reference — not a tutorial, with ❤
-
----
-
 > Built for developers who move fast and want a reliable reference — not a tutorial.
+> With ❤
