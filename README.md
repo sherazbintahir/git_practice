@@ -52,4 +52,3 @@ This is a simple project to learn how to use git and github.
 - git stash list => this command will show you the list of stashes that you have created.
 - git stash apply => this command will apply the changes from the stash to your working directory.
 - git stash clear => this command will clear all the stashes that you have created.
-- 
